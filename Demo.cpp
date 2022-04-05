@@ -13,6 +13,7 @@
 #include <sstream>
 #include <stdexcept>
 using namespace std;
+#include <vector>
 
 #include "Matrix.hpp"
 using namespace zich;
